@@ -1,0 +1,11 @@
+Google Summer Of Code 2009
+
+Organization : GenMAPP
+Author : Adem BILICAN
+Project : BioPAX plugin (import, export, and layout) for PathVisio
+
+This package contains the BioPAX plugin for PathVisio application.
+It is organised in 3 parts :
+	- conversion from BioPAX level3 to GPML format file : code souce in the "biopaxToGpml" directory
+	- conversion from GPML to BioPAX level3 format file : code source in the "gpmlToBiopax" directory
+	- layout for a BioPAX pathway : code source in the "layout" directory
